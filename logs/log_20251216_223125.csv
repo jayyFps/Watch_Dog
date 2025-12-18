@@ -1,0 +1,3 @@
+timestamp,cpu_percent,ram_percent,gpu_load,cpu_temp,gpu_temp,cpu_limit,gpu_load_limit,cpu_temp_limit,gpu_temp_limit,alert_main
+2025-12-16 22:31:25,15.9,87.1,,49.0,,80.0,80.0,80.0,75.0,0
+2025-12-16 22:31:27,51.4,87.9,,49.0,,80.0,80.0,80.0,75.0,0
